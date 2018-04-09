@@ -23,7 +23,7 @@ function farUserGuesses() {
 countGuessesLeft();
 
 var restart = function() {
-	guessesLeft = 9;
+	guessesLeft = 19;
 	letterUser = [];
 }
 
